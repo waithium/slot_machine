@@ -1,2 +1,2 @@
 # slot_machine
-slot machine project
+slot machine game
